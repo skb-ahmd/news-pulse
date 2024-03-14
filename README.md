@@ -21,14 +21,18 @@ Welcome to NewsPulse! It's a cool little app I built using Flutter to keep you u
 - **Dart**: The language that powers Flutter.
 - **NewsAPI**: The awesome service that provides all the news data.
 
+## Download APK
+
+You can download the latest version of the app from the [Releases](https://github.com/skb-ahmd/news-pulse/releases) section.
+
 ## Contributing
 
 I'm always open to suggestions and improvements! If you have any cool ideas or find any bugs, feel free to let me know.
 
+## Design Process
+
+Check out the logo creation and UI design process on [Behance](https://www.behance.net/gallery/193834991/NewsPulse)!
+
 ## Shoutout
 
 Big thanks to the folks at [NewsAPI](https://newsapi.org/) for making this project possible with their amazing news data!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
